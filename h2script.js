@@ -4,7 +4,7 @@ let interval = null;
 
 window.onload = () =>
 {
-	let element = document.querySelector("h1");
+	let element = document.querySelector("h2");
 	let innerHTML = element.innerHTML;
 	
 	action = () =>
